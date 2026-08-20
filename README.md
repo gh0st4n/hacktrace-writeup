@@ -1,8 +1,8 @@
 # hacktrace-writeup
 Write up
 
-- [defensive](defensive/0main)
-- [Lab DNS1](offensive/0main)
+- [Defensive](defensive/0main)
+- [Offensive](offensive/0main)
 
 ---
 
